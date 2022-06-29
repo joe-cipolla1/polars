@@ -1,0 +1,6 @@
+﻿polars.internals.expr.ExprStringNameSpace.starts\_with
+======================================================
+
+.. currentmodule:: polars.internals.expr
+
+.. automethod:: ExprStringNameSpace.starts_with

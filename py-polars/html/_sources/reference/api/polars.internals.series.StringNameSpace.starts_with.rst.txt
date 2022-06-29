@@ -1,0 +1,6 @@
+﻿polars.internals.series.StringNameSpace.starts\_with
+====================================================
+
+.. currentmodule:: polars.internals.series
+
+.. automethod:: StringNameSpace.starts_with

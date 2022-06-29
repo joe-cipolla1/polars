@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["CsvEncoding",""],["NullValues",""]],"struct":[["CsvReader","Create a new DataFrame by reading a csv file."],["CsvWriter","Write a DataFrame to csv."]]};

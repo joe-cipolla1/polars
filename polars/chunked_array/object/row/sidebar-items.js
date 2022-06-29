@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["coerce_data_type","Coerces a slice of datatypes into a single supertype."],["infer_schema",""],["rows_to_schema","Infer schema from rows."]],"struct":[["Row",""]]};
